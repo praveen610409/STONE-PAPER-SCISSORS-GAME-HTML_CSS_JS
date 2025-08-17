@@ -2,7 +2,7 @@
 
 # ✊✋✌️ Stone-Paper-Scissors Game Description
  
- ## This is a fun and interactive browser-based version of the classic Stone-Paper-Scissors game (also known as Rock-Paper-Scissors). Players compete against the computer by selecting one of the three options:
+ ### This is a fun and interactive browser-based version of the classic Stone-Paper-Scissors game (also known as Rock-Paper-Scissors). Players compete against the computer by selecting one of the three options:
 
 #### - Stone (Rock) crushes Scissors
 #### - Scissors cut Paper
