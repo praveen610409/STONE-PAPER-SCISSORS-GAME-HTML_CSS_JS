@@ -17,5 +17,7 @@
  #### - Responsive design for desktop and mobile
 
  ## Output:- 
-
+#### Output 1
  ![image](StonePaperScissors.png)
+#### output 2
+![image](StonePaperScissors2.png)
